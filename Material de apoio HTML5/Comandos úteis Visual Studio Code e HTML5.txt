@@ -1,0 +1,37 @@
+<meta> = Arruma os códigos da página, acentos e etc
+<div> =  O elemento de divisão HTML <div> é um container genérico para conteúdo de fluxo, que de certa forma não representa nada. Ele pode ser utilizado para agrupar elementos para fins de estilos (usando class ou id), ou porque eles compartilham valores de atributos, como lang
+<p> = Parágrafo
+<tittle> Título
+<head> cabeçalho da página
+<body> corpo da página
+<h1 a h6> Título
+<!DOCTYPE html> = Específica o tipo de documento e a linguagem que o site irá usar
+<strong> = afirma que o texto específicado é importante
+<em> = Enfáse
+<i> = Itálico
+<u> = Deixa sublinhado 
+<span> = tag usada para deixar a parte do texto com estética diferente ex <span style="font-weight: bold;"
+<br> = quebra de linha
+<ol> = lista odernada começar
+<li> = um item desta lista ordenada
+<ul> começa uma lista não odernada
+<img> tag de imagem
+alt = descrição alternada de uma imagem
+width e height = define o tamanho
+<a> = inserir link pode ser usado em textos e imagens e pode ser redirecionado para paginas internas que estão dentro do próprio diretorio do site
+rel = link no follow para que o google não siga
+target ="" mais comum é a target ="_blank" que ira abrir uma nova aba no navegador
+id = identificação e linkar 
+<section> = definir seções já div é algo generico sem um significado
+<article> = semelhante a section mas você está determinando que é um conteúdo mais importante ex: marcar conteúdo importante, section é mais global
+<header> = agrupar o cabeçalho de uma seção, serve para colocar navegação, titulo, subtitulo, area de pesquisa, logo do site. pode existir vários headers.
+<nav> = serve para navegação, é a navegação do site.
+<aside> = conter conteúdos relacionados ao conteúdo principal mas que poderiam ser retirados, caso ele saia ele não vai interferir no itendimento do conteúdo
+<footer> = parte final do site, rodapé, informações de direitos autorais, documentos relacionados, entre outros.
+<!-- --> = deixa um comentário sobre o código
+<style type="text/css"</> ou somente <style> = texto css media="" posso dizer em qual media, screen monitor e telas, print, para impressão, tv, braile, all para todas as mídias . Explica onde o css vai ser aplicado.
+<link rel="text/css" type="text/css" href=""> = Linkar css em todas as páginas html
+@import url(""); dentro do <style
+
+
+ 
