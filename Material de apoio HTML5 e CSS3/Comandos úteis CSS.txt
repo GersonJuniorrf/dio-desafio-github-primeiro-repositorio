@@ -1,0 +1,89 @@
+<style>
+  .blue-text {
+    color: blue;     estilo, pode ser usado em todo o projeto
+  }
+</style>
+
+h1 {
+  font-size: 30px;    alterar o tamanho da fonte	
+}
+
+<style>
+  .larger-image {
+    width: 500px;     modificar tamanho de uma imagem
+  }
+
+img {
+  height: 20px;   altera a altura
+}
+</style>
+
+thick-green-border {
+    border-color: green;
+    border-width: 10px;      cria uma borda 
+    border-style: solid;
+
+.Faça imagens circulares com um raio de borda
+Além dos pixels, você também pode especificar o border-radiususo de uma porcentagem.
+
+Dê ao seu gato uma foto border-radiusde 50%. cria uma borda circular
+.Três propriedades importantes controlam o espaço que envolve cada elemento HTML: padding, border, e margin.
+
+Um elemento paddingcontrola a quantidade de espaço entre o conteúdo do elemento e seu border.
+
+Aqui, podemos ver que a caixa azul e a caixa vermelha estão aninhadas dentro da caixa amarela. Observe que a caixa vermelha tem mais paddingdo que a caixa azul.
+
+Quando você aumenta a caixa azul padding, aumenta a distância ( padding) entre o texto e a borda ao redor dele
+.Às vezes você vai querer personalizar um elemento para que ele tenha diferentes quantidades de paddingcada um de seus lados.
+
+CSS permite que você controle os paddingquatro lados individuais de um elemento com as propriedades padding-top, padding-right, padding-bottome padding-left.
+
+[type='radio'] {
+  margin: 20px 0px 20px 0px; [attr=value]seletor de atributos para estilizar as caixas de seleção no    }                           CatPhotoApp
+
+.In many situations, you will use CSS libraries. These may accidentally override your own CSS. So when you absolutely need to be sure that an element has specific CSS, you can use !important.
+
+.Another way you can represent colors in CSS is by using RGB values.
+
+The RGB value for black looks like this:
+
+rgb(0, 0, 0)
+The RGB value for white looks like this:
+
+rgb(255, 255, 255)
+
+:root um seletor de pseudo-classe que corresponde ao elemento raiz do documento, geralmente o htmlelemento. Ao criar suas variáveis ​​em :root, elas estarão disponíveis globalmente e podem ser acessadas de qualquer outro seletor na folha de estilo.
+
+.O texto geralmente é uma grande parte do conteúdo da web. CSS tem várias opções de como alinhá-lo com a text-alignpropriedade.
+
+text-align: justify;espaça o texto para que cada linha tenha a mesma largura.
+
+text-align: center;centraliza o texto
+
+text-align: right;alinha o texto à direita
+
+E text-align: left;(o padrão) alinha o texto à esquerda
+
+..Adicione uma sombra de caixa a um elemento semelhante a um cartão
+A box-shadowpropriedade aplica uma ou mais sombras a um elemento.
+
+A box-shadowpropriedade assume os seguintes valores, em ordem:
+
+offset-x(o quão longe para empurrar a sombra horizontalmente do elemento)
+offset-y(o quão longe para empurrar a sombra verticalmente do elemento)
+blur-radius
+spread-radius
+color
+Os valores blur-radiuse spread-radiussão opcionais.
+
+Várias sombras de caixa podem ser criadas usando vírgulas para separar as propriedades de cada box-shadowelemento. ex box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+
+<strong>Diminuir a opacidade de um elemento</strong>
+A opacitypropriedade em CSS é usada para ajustar a opacidade, ou inversamente, a transparência de um item.
+
+Um valor de 1 é opaco, o que não é transparente.
+Um valor de 0,5 é metade transparente.
+Um valor de 0 é completamente transparente.
+O valor fornecido será aplicado a todo o elemento, seja uma imagem com alguma transparência ou as cores de primeiro e segundo plano de um bloco de texto.
+
+Defina o opacityvalor das tags âncora para 0,7 usando linksclass para selecioná-las.
